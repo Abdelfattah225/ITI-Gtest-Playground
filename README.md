@@ -645,16 +645,19 @@ For any function, consider:
 *Happy Testing!* 🧪✅
 ```
 
-```
-ITT-Gtest-playground
+## Project Structure
+
+ITI-Gtest-playground/
 ├── Self-Study-Gtest/
-├    ├── main.cpp
-├    ├── absolute_test.cpp
-├    ├── test_fixture.cpp
-├    ├── double_fake.cpp
-├    └── project_library.cpp
-└── Session_Utest   
-    ├── build/
-    ├── CMakeList.txt
-    └── hello_test.cpp
-```
+│ 
+│ ├── main.cpp ← Basic TEST() examples
+│ ├── absolute_test.cpp ← Assertions practice
+│ ├── test_fixture.cpp ← Fixture examples
+│ ├── double_fake.cpp ← Test doubles (Fake)
+│ └── project_library.cpp ← Complete project example
+│
+├── Session_Utest/
+│    ├── build/
+│    ├── CMakeLists.txt
+│    └── hello_test.cpp
+└── README.md ← This guide
