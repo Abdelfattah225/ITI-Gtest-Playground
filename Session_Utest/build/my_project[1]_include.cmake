@@ -1,0 +1,5 @@
+if(EXISTS "/home/abdo/ITI/07-gtest/build/my_project[1]_tests.cmake")
+  include("/home/abdo/ITI/07-gtest/build/my_project[1]_tests.cmake")
+else()
+  add_test(my_project_NOT_BUILT my_project_NOT_BUILT)
+endif()

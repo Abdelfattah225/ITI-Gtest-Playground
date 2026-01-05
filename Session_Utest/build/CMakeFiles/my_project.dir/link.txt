@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/my_project.dir/hello_test.cc.o -o my_project  /usr/local/lib/libgtest.a /usr/local/lib/libgmock.a /usr/local/lib/libgtest_main.a /usr/local/lib/libgmock_main.a /usr/local/lib/libgmock.a /usr/local/lib/libgtest.a 
