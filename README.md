@@ -636,13 +636,12 @@ For any function, consider:
 ---
 
 *Happy Testing!* 🧪✅
-```
 
 ## Project Structure
 
+```
 ITI-Gtest-playground/
 ├── Self-Study-Gtest/
-│ 
 │ ├── main.cpp ← Basic TEST() examples
 │ ├── absolute_test.cpp ← Assertions practice
 │ ├── test_fixture.cpp ← Fixture examples
