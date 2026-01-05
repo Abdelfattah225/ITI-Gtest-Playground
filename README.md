@@ -1,10 +1,4 @@
-# Google Test (gtest) Complete Guide 📚
 
-Here's your personal reference guide!
-
----
-
-```markdown
 # Google Test (gtest) Complete Reference Guide
 
 A comprehensive guide to C++ unit testing with Google Test framework.
@@ -17,9 +11,8 @@ A comprehensive guide to C++ unit testing with Google Test framework.
 4. [Level 3: Assertions (EXPECT vs ASSERT)](#level-3-assertions-expect-vs-assert)
 5. [Level 4: Test Fixtures](#level-4-test-fixtures)
 6. [Level 5: Test Doubles (Fakes, Stubs, Mocks)](#level-5-test-doubles)
-7. [Level 6: Real Project Example](#level-6-real-project-example)
-8. [Quick Reference Cheat Sheet](#quick-reference-cheat-sheet)
-9. [Test Case Generation Strategies](#test-case-generation-strategies)
+7. [Quick Reference Cheat Sheet](#quick-reference-cheat-sheet)
+8. [Test Case Generation Strategies](#test-case-generation-strategies)
 
 ---
 
