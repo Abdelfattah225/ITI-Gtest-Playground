@@ -637,7 +637,7 @@ For any function, consider:
 
 *Happy Testing!* 🧪✅
 
-## Project Structure
+## Repo Structure
 
 ```
 ITI-Gtest-playground/
